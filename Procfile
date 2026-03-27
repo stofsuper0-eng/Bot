@@ -1,1 +1,1 @@
-worker: python emote_bot-4.py
+worker: python emote_bot.py
