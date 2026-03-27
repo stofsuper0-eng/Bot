@@ -1299,7 +1299,7 @@ if __name__ == "__main__":
     import time as _time
 
     _HR_ROOM_ID   = os.environ.get("HR_ROOM_ID",   "673a9012dcd373b903936bad")
-    _HR_API_TOKEN = os.environ.get("HR_API_TOKEN", "")
+    _HR_API_TOKEN = os.environ.get("HR_API_TOKEN", "3a3753878af778f7726cf6aab0dca581d6a90e0bfa2fee635d7e14dbef5ca1d6")
 
     if not _HR_API_TOKEN:
         print(
