@@ -1,0 +1,18 @@
+{
+  "dance_floor": {
+    "x": 3.5,
+    "y": 1.0,
+    "z": 7.5,
+    "rx": 2.5,
+    "ry": 0.6,
+    "rz": 3.5
+  },
+  "bot_emote_id": null,
+  "bot_pos": {
+    "x": 8.5,
+    "y": 12.0,
+    "z": 1.5,
+    "facing": "FrontRight"
+  },
+  "user_loop_emotes": {}
+}
