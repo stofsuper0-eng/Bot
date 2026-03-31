@@ -777,7 +777,7 @@ if __name__ == "__main__":
         _start      = _time.time()
         _child_proc = subprocess.Popen([
             sys.executable, "-m", "highrise",
-            "emote_bot_stable:EmoteBot",
+            "emote_bot:EmoteBot",
             _HR_ROOM_ID,
             _HR_API_TOKEN,
         ])
